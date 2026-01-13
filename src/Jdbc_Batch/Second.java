@@ -5,7 +5,8 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.PreparedStatement;
 
-public class Second {
+public class Second 
+{
 
 	public static void main(String[] args) throws ClassNotFoundException,SQLException
 	{
